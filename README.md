@@ -1,4 +1,4 @@
-# Sistema para Cadastro de Veterinários / Veterinarian Registration System
+# Veterinarian Registration System
 
 
 ## 🔹 Project description
