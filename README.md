@@ -21,9 +21,9 @@ Java, Java Swing, Developed in Apache NetBeans IDE.
 
 
 ## Previews
-<img src=".previews/cadastrar.jpg" width="100%" />
-<img src=".previews/pesquisar.jpg" width="100%" />
-<img src=".previews/pagamento.jpg" width="100%" />
+<img src=".previews/cadastrar.jpg" width="70%" />
+<img src=".previews/pesquisar.jpg" width="70%" />
+<img src=".previews/pagamento.jpg" width="70%" />
 
 
 ## Dev
